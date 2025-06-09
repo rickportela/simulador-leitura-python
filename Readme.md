@@ -21,7 +21,7 @@ O projeto utiliza uma interface gráfica feita com a biblioteca `PySimpleGUI`.
 
 ##  Tecnologias usadas
 
-- Python 3.x
+- Python 3.13.2
 - [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
 - (Opcional) `datetime` e `math` para cálculo de data e arredondamento
 
