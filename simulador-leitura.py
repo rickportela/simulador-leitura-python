@@ -47,7 +47,7 @@ while True:
         paginas_restantes = total_paginas - paginas_lidas
         dias_restantes = (paginas_restantes + paginas_por_dia - 1) // paginas_por_dia  # divisão arredondando pra cima
         
-        sg.popup(f"Faltam {dias_restantes} dias para terminar o livro lendo {paginas_por_dia} páginas por dia.")
+        sg.popup(f"Faltam {dias_restantes} dias para você terminar o livro lendo um total de {paginas_por_dia} páginas por dia.")
 
 # Fecha a janela após sair do loop
 window.close()
